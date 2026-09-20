@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "superscout-platform",
+  "displayName": "Superscout Platform",
+  "version": "1.0.0",
+  "description": "Evaluate investor and program fit, organize fundraising or scouting work, and manage your private Superscout workspace.",
+  "author": {
+    "name": "Superscout Inc.",
+    "url": "https://superscout.co"
+  },
+  "homepage": "https://platform.superscout.co/docs",
+  "repository": "https://github.com/davhad/superscout-platform",
+  "license": "MIT",
+  "keywords": [
+    "superscout",
+    "venture-capital",
+    "startups",
+    "fundraising",
+    "scouting",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

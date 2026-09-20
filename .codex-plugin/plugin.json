@@ -1,0 +1,25 @@
+{
+  "name": "superscout-platform",
+  "version": "1.0.0",
+  "description": "Evaluate investor and program fit, organize fundraising or scouting work, and manage your private Superscout workspace.",
+  "author": { "name": "Superscout Inc.", "url": "https://superscout.co" },
+  "repository": "https://github.com/davhad/superscout-platform",
+  "license": "MIT",
+  "keywords": ["superscout", "venture-capital", "startups", "fundraising", "scouting", "mcp"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Superscout Platform",
+    "shortDescription": "Use your private Superscout workspace.",
+    "longDescription": "Read and update your Superscout profile, personas, Scout declaration, investment preferences, lists, follows, and private organization records through the authenticated Superscout Platform MCP.",
+    "developerName": "Superscout Inc.",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Show my Superscout profile and declared personas.",
+      "Check whether the investor at this Superscout page fits my pre-seed company.",
+      "Create a private shortlist for my current raise and add these Superscout targets.",
+      "Review my scouting profile and investment preferences for inconsistencies."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

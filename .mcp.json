@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "superscout_platform": {
+      "type": "http",
+      "url": "https://platform.superscout.co/mcp?client=claude-plugin"
+    }
+  }
+}
