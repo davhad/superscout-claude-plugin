@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "superscout-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Superscout plugins for founders, startup operators, scouts, angels, and VCs.",
   "owner": {
     "name": "Superscout Inc.",
@@ -10,16 +10,15 @@
   "plugins": [
     {
       "name": "superscout-platform",
-      "displayName": "Superscout Platform",
       "source": "./",
       "description": "Evaluate investor and program fit, organize fundraising or scouting work, and manage your private Superscout workspace.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Superscout Inc.",
         "url": "https://superscout.co"
       },
       "homepage": "https://platform.superscout.co/docs",
-      "repository": "https://github.com/davhad/superscout-platform",
+      "repository": "https://github.com/davhad/superscout-claude-plugin",
       "license": "MIT",
       "keywords": [
         "superscout",

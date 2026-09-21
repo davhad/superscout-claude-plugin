@@ -2,14 +2,14 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "superscout-platform",
   "displayName": "Superscout Platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Evaluate investor and program fit, organize fundraising or scouting work, and manage your private Superscout workspace.",
   "author": {
     "name": "Superscout Inc.",
     "url": "https://superscout.co"
   },
   "homepage": "https://platform.superscout.co/docs",
-  "repository": "https://github.com/davhad/superscout-platform",
+  "repository": "https://github.com/davhad/superscout-claude-plugin",
   "license": "MIT",
   "keywords": [
     "superscout",
