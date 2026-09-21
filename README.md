@@ -48,9 +48,10 @@ In Claude Code, add the public Superscout marketplace and install the plugin:
 After community-directory approval, users can install Superscout Platform from
 Claude's plugin directory in Claude, Claude Desktop, Cowork, or Claude Code.
 
-This repository is the public distribution package for Claude only. The
-Superscout Platform server and the packages for other AI platforms are
-maintained separately in Superscout's private monorepo.
+The public distribution repository for this Claude-only package is
+`davhad/superscout-claude-plugin`. The Superscout Platform server and packages
+for other AI platforms are maintained separately in Superscout's private
+monorepo.
 
 ## Privacy and safety
 
